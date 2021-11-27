@@ -36,3 +36,5 @@ spellin mistake in code
 
 noerrorsanywhere
 >>>>>>> 7bb6679 (no errors)
+
+diffchecking
