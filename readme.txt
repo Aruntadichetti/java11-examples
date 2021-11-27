@@ -29,4 +29,10 @@ one more change`
 
 learning rebase
 
+<<<<<<< HEAD
 spelling mistake in code
+=======
+spellin mistake in code
+
+noerrorsanywhere
+>>>>>>> 7bb6679 (no errors)
