@@ -29,4 +29,4 @@ one more change`
 
 learning rebase
 
-spellin mistake in code
+spelling mistake in code
