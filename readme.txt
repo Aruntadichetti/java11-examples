@@ -28,3 +28,5 @@ created new branch rel_1.2
 one more change`
 
 learning rebase
+
+spellin mistake in code
